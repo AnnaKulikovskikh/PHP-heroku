@@ -1,3 +1,3 @@
 <?php
-  session_unset;
+  //session_unset;
   header("Location: index.php");
